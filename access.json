@@ -14,7 +14,7 @@
       'pagesBook':'',
       'daysFinishBook':'',
       'details':'',
-      'frequency':'',
+      'frequency':''
     }
     ]
   }
