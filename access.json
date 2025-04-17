@@ -1,5 +1,21 @@
 [
   'daniel' : {
-    
+    'tasks' : [
+    {
+      'id':'',
+      'name':'',
+      'type':'',
+      'priorityInitial':'',
+      'timeClock':'',
+      'dateExpected':'',
+      'datePosted':'',
+      'progress':'',
+      'isActivated':'',
+      'pagesBook':'',
+      'daysFinishBook':'',
+      'details':'',
+      'frequency':'',
+    }
+    ]
   }
 ]
